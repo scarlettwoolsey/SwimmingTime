@@ -35,11 +35,11 @@ var s; */
 
 //image preloads
 function preload(){
-  swim = loadImage('/img/swimmer1.png');
-  swim2 = loadImage('/img/swimmer2.png');
-  swim3 = loadImage('/img/swimmer3.png');
-  swim4 = loadImage('/img/swimmer4.png');
-  mySound = createAudio('/audio/swimming.mp3');
+  swim = loadImage('img/swimmer1.png');
+  swim2 = loadImage('img/swimmer2.png');
+  swim3 = loadImage('img/swimmer3.png');
+  swim4 = loadImage('img/swimmer4.png');
+  mySound = createAudio('audio/swimming.mp3');
   }
 
 
